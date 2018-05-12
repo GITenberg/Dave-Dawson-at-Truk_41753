@@ -1,0 +1,32 @@
+_repo: Dave-Dawson-at-Truk_41753
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41753-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bowen, Robert Sidney
+    aliases:
+    - Richard, James Robert
+    - Bowen, R. Sidney
+    - Bowen, Robert Sydney
+    birthdate: 1900
+    deathdate: 1977
+    gutenberg_agent_id: '35796'
+    url: http://www.gutenberg.org/2009/agents/35796
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2013-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41753'
+  lccn: '47002848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1939-1945 -- Juvenile fiction'
+title: Dave Dawson at Truk
+url: http://www.gutenberg.org/ebooks/41753
